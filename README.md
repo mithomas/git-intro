@@ -27,3 +27,5 @@ fib(n) = fib(n-1) + fib(n-2) (n>=2)
 
 ## Expected output: 
 See expected.txt
+
+If you have no compiler installed, please try https://www.codechef.com/ide
