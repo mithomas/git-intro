@@ -15,6 +15,7 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
 ## Step 3
 Print fibonacci numbers
+
 fib(0)
 
 fib(1)
@@ -27,5 +28,8 @@ fib(n) = fib(n-1) + fib(n-2) (n>=2)
 
 ## Expected output: 
 See expected.txt
+
+## Step 3 bonus
+Print fib(100)
 
 If you have no compiler installed, please try https://www.codechef.com/ide
