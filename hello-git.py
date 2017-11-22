@@ -3,8 +3,9 @@ print("Hello git!")
 def sum(n):
     sum = 0
     for i in xrange(n):
-        if i%5 or i%3:
+        if i%5==0 or i%3==0:
             sum += i
+    return sum
 
 def fib(n):
     if n<2:
